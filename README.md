@@ -105,15 +105,7 @@ Areas where I am actively building:
 - Clear API documentation and database schema documentation.
 - Backend architecture, microservices fundamentals, and cloud deployment.
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sibghatullah-Laghari&show_icons=true&hide_border=true&theme=transparent)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sibghatullah-Laghari&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibghatullah-Laghari&layout=compact&hide_border=true&theme=transparent)
-
-## Connect With Me
+###contact with me
 
 - GitHub: [github.com/Sibghatullah-Laghari](https://github.com/Sibghatullah-Laghari)
 - Portfolio: [sibghatullah-laghari.github.io](https://sibghatullah-laghari.github.io)
@@ -121,11 +113,3 @@ Areas where I am actively building:
 - Email: [siblaghari@gmail.com](mailto:siblaghari@gmail.com)
 - Stack Overflow: [stackoverflow.com/users/27242488](https://stackoverflow.com/users/27242488)
 
-### Profiles To Complete
-
-- Fiverr: add profile link when available.
-- Upwork: add profile link when available.
-- X/Twitter: add profile link when available.
-- Medium: add profile link when available.
-- Dev.to: add profile link when available.
-- YouTube: add channel link when available.
