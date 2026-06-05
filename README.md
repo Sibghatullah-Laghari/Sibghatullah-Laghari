@@ -1,6 +1,21 @@
-# 💫 About Me:
-Full-stack software engineering projects using Java, Spring Boot, and modern frontend frameworks.<br>Open-source projects related to backend development, APIs, and real-world software solutions.<br>System design, scalable backend architectures, and improving clean code practices.<br>Advanced Spring Boot, RESTful APIs, React, and practical software engineering concepts.<br>Java, Spring Boot, Git, backend development, and project-based learning.<br>I learn best by building real projects and breaking things until they work 🚀
+# Hi 👋, I'm Sibghatullah Laghari
 
+Java Spring Boot Backend Developer
+
+Building scalable REST APIs, Authentication Systems,
+Microservices and Enterprise Backend Solutions.
+
+🌱 Currently learning:
+- Spring Cloud
+- Docker
+- Microservices
+
+📫 Reach me:
+your-email@gmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sibghatullah-Laghari&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibghatullah-Laghari&layout=compact)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sibghatullah-laghari) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27242488) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siblaghari@gmail.com) 
