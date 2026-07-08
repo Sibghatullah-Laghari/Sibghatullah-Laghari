@@ -1,115 +1,208 @@
 # Sibghatullah Laghari
 
-## Java Backend Engineer | Spring Boot Developer | REST API Developer
+## Java Backend Engineer | Software Engineer | Backend Architecture & System Design Enthusiast
 
-I build secure, maintainable backend systems with Java, Spring Boot, REST APIs, authentication, relational databases, and clean project structure. My focus is backend architecture, API design, Spring Security, JWT/OAuth2 authentication, PostgreSQL/MySQL, Docker, and production-minded engineering practices.
+I build secure, maintainable, and scalable backend systems with Java, Spring Boot, REST APIs, relational databases, and modern software engineering practices. My interests extend beyond writing code into backend architecture, system design, AI-assisted software engineering, and building production-ready applications that solve real-world problems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sibghatullah--laghari.github.io-0A66C2?style=for-the-badge)](https://sibghatullah-laghari.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sibghatullah%20Laghari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sibghatullah-laghari-b01908320)
-[![Email](https://img.shields.io/badge/Email-siblaghari%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siblaghari@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Sibghatullah--Laghari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sibghatullah-Laghari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sibghatullah%20Laghari-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sibghatullah-laghari-b01908320)
+[![Email](https://img.shields.io/badge/Email-siblaghari%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:siblaghari@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Sibghatullah--Laghari-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Sibghatullah-Laghari)
 
 ---
 
-## About Me
+# About Me
 
-- Backend engineer focused on Java, Spring Boot, REST APIs, and secure authentication flows.
-- Comfortable with Spring Security, JWT authentication, OAuth2, Hibernate, JPA, Maven, Git, and Docker fundamentals.
-- Experienced with PostgreSQL and MySQL-backed applications, API documentation, layered architecture, and database schema planning.
-- Building stronger production skills in microservices, cloud deployment, Kubernetes, and system design.
-- Open to international remote backend roles, freelance API development, and meaningful open-source collaboration.
+* Software engineer focused on Java, Spring Boot, REST APIs, and secure backend development.
+* Passionate about software architecture, system design, backend engineering, and building production-quality applications.
+* Comfortable with Spring Security, JWT, OAuth2, Hibernate, JPA, Maven, Git, Docker, PostgreSQL, and MySQL.
+* Continuously improving my understanding of distributed systems, cloud-native development, scalable architectures, AI-powered software engineering, and modern backend technologies.
+* Actively building real-world projects while contributing to open source and continuously refining engineering best practices.
 
-## Current Focus
+---
 
-- Building scalable backend systems with Spring Boot and clean REST API design.
-- Improving open-source readiness through documentation, issue templates, and contribution workflows.
-- Practicing cloud deployment, Dockerized services, microservices, and system design.
-- Turning real project work into recruiter-friendly, production-style repositories.
+# Current Focus
 
-## Tech Stack
+* Building production-ready backend applications with Java and Spring Boot.
+* Learning software architecture, system design, and scalable backend engineering through real projects.
+* Exploring Spring AI and AI-assisted software engineering workflows.
+* Improving project quality through clean architecture, documentation, testing, and production-ready development practices.
+* Regularly contributing to personal projects, open source, and continuously expanding my engineering knowledge.
 
-### Backend
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+# Tech Stack
+
+## Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square\&logo=springsecurity\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square\&logo=hibernate\&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-2F6DB2?style=flat-square)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3C4043?style=flat-square)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square)
 
-### Database
+## Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-### Tools
+## Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square\&logo=apachemaven\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square\&logo=intellijidea\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 
-### Learning
+## Currently Learning
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-1F6FEB?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-0F172A?style=flat-square)
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-1E40AF?style=flat-square)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square)
 
-## Featured Projects
+---
 
-### Carbon Contribution Tracking & Reward System
+# Featured Projects
 
-Full-stack platform for tracking eco-friendly activities, proof submissions, admin review, points, leaderboards, and monthly progress analytics.
+## Carbon Contribution Tracking & Reward System (CCTRS)
 
-- Features: JWT login, OTP signup, password reset, Google OAuth2, proof upload workflow, admin approve/reject flow, analytics, leaderboard, public Q&A.
-- Backend: Java 17, Spring Boot 3, Spring Security, JWT filter, OAuth2 Client, Spring JDBC/JPA, Swagger/OpenAPI.
-- Frontend and database: React, Vite, Axios, Chart.js, PostgreSQL-oriented SQL schema.
-- Links: [Repository](https://github.com/Sibghatullah-Laghari/carbon-contribution-tracking-system) | [API Documentation](https://github.com/Sibghatullah-Laghari/carbon-contribution-tracking-system/blob/main/API_DOCUMENTATION.md) | [Architecture](https://github.com/Sibghatullah-Laghari/carbon-contribution-tracking-system/blob/main/SYSTEM_ARCHITECTURE.md)
+A full-stack platform for tracking eco-friendly activities, proof submissions, rewards, leaderboards, analytics, and community engagement.
 
-### ULSM Lab Barcode System
+**Highlights**
 
-Java utility for encoding and decoding lab sample metadata with validation, sample record handling, Maven structure, and JUnit test scaffolding.
+* JWT Authentication
+* Google OAuth2
+* Email OTP Verification
+* Role-Based Access Control
+* Leaderboards & Analytics
+* Proof Submission Workflow
+* Admin Review System
+* REST APIs
+* OpenAPI Documentation
 
-- Features: URL-safe Base64 barcode payloads, patient/test/sample data validation, in-memory sample records, CLI workflow.
-- Technologies: Java 17, Maven, JUnit 5.
-- Links: [Repository](https://github.com/Sibghatullah-Laghari/ULSM-Lab-Barcode-System)
+**Tech Stack**
 
-### MediConnect
+Java • Spring Boot • Spring Security • JWT • OAuth2 • PostgreSQL • React • Vite • Swagger/OpenAPI
 
-Spring Boot healthcare backend project currently being expanded into a REST API for appointment, patient, doctor, and authentication workflows.
+---
 
-- Planned features: REST controllers, role-based authentication, appointment management, doctor/patient modules, PostgreSQL integration, OpenAPI docs.
-- Technologies: Java, Spring Boot, Maven.
-- Links: [Repository](https://github.com/Sibghatullah-Laghari/mediconnect)
+## MediConnect
 
-### Personal Portfolio
+A production-oriented healthcare management platform being designed with a strong focus on clean architecture, modular backend development, secure authentication, scalable APIs, and enterprise software engineering practices.
 
-Portfolio website for presenting backend projects, technical skills, and professional contact information.
+**Current Focus**
 
-- Technologies: Astro, JavaScript, Tailwind CSS, GitHub Pages.
-- Links: [Repository](https://github.com/Sibghatullah-Laghari/sibghatullah-laghari.github.io) | [Live Site](https://sibghatullah-laghari.github.io)
+* Authentication & Authorization
+* Appointment Management
+* Patient & Doctor Modules
+* REST API Design
+* Clean Architecture
+* PostgreSQL
+* Docker
+* Production Readiness
 
-## Open Source Journey
+---
 
-I am preparing my repositories for useful public collaboration by improving documentation, adding contribution guides, creating issue/PR templates, and turning practice projects into maintainable open-source examples.
+## FileMind
 
-Areas where I am actively building:
+An AI-powered desktop file search and knowledge management application focused on fast local search, intelligent indexing, document discovery, and developer productivity.
 
-- Java and Spring Boot backend APIs.
-- Security-focused authentication flows using JWT and OAuth2.
-- Clear API documentation and database schema documentation.
-- Backend architecture, microservices fundamentals, and cloud deployment.
+**Highlights**
 
-###contact with me
+* Intelligent File Search
+* Content Indexing
+* Local Search Engine
+* Desktop Application
+* Knowledge Retrieval
+* AI-powered Productivity Features
 
-- GitHub: [github.com/Sibghatullah-Laghari](https://github.com/Sibghatullah-Laghari)
-- Portfolio: [sibghatullah-laghari.github.io](https://sibghatullah-laghari.github.io)
-- LinkedIn: [Sibghatullah Laghari](https://www.linkedin.com/in/sibghatullah-laghari-b01908320)
-- Email: [siblaghari@gmail.com](mailto:siblaghari@gmail.com)
-- Stack Overflow: [stackoverflow.com/users/27242488](https://stackoverflow.com/users/27242488)
+---
 
+## DevVoyage *(In Progress)*
+
+An AI-powered software engineering mentor that guides developers from idea to production by helping them plan, architect, prioritize, and build software projects using proven engineering practices.
+
+**Planned Features**
+
+* Idea Validation
+* Scope Planning
+* Interactive SRS Builder
+* Architecture Guidance
+* Technology Recommendations
+* Development Roadmaps
+* AI Engineering Mentor
+* Senior Engineering Best Practices
+* Project Progress Tracking
+
+---
+
+## ULSM Lab Barcode System
+
+Java-based barcode generation and decoding utility for laboratory sample management with validation, barcode encoding, and structured project architecture.
+
+---
+
+## Personal Portfolio
+
+A modern portfolio showcasing my projects, technical skills, engineering journey, and backend development experience.
+
+Built with Astro, Tailwind CSS, and GitHub Pages.
+
+---
+
+# Engineering Interests
+
+I enjoy working on projects involving:
+
+* Backend Development
+* Software Architecture
+* System Design
+* Clean Architecture
+* REST API Design
+* Authentication & Authorization
+* AI-assisted Software Engineering
+* Developer Productivity Tools
+* Spring AI
+* Production-ready Engineering
+* Open Source Development
+* Scalable Backend Systems
+
+---
+
+# Open Source Journey
+
+I actively work on improving my repositories by adding:
+
+* Professional documentation
+* Architecture diagrams
+* API documentation
+* Contribution guides
+* Issue & PR templates
+* Project roadmaps
+* Better developer experience
+* Production-ready repository structure
+
+I also enjoy contributing to open-source projects and learning from experienced engineers while continuously improving my software engineering skills.
+
+---
+
+# Let's Connect
+
+* GitHub: https://github.com/Sibghatullah-Laghari
+* Portfolio: https://sibghatullah-laghari.github.io
+* LinkedIn: https://www.linkedin.com/in/sibghatullah-laghari-b01908320
+* Email: [siblaghari@gmail.com](mailto:siblaghari@gmail.com)
+* Stack Overflow: https://stackoverflow.com/users/27242488
+
+---
+
+> *"I believe great software isn't just written—it's thoughtfully designed, carefully engineered, and continuously improved."* 🚀
