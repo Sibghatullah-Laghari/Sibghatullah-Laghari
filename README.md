@@ -2,7 +2,7 @@
 
 ## Java Backend Engineer | Software Engineer | Backend Architecture & System Design Enthusiast
 
-I build secure, maintainable, and scalable backend systems with Java, Spring Boot, REST APIs, relational databases, and modern software engineering practices. My interests extend beyond writing code into backend architecture, system design, AI-assisted software engineering, and building production-ready applications that solve real-world problems.
+I build secure, maintainable, and scalable backend systems using Java, Spring Boot, REST APIs, relational databases, and modern software engineering practices. My interests go beyond writing code and include backend architecture, system design, AI-assisted software engineering, and developing production-ready applications that address real-world problems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sibghatullah--laghari.github.io-0A66C2?style=for-the-badge)](https://sibghatullah-laghari.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sibghatullah%20Laghari-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sibghatullah-laghari-b01908320)
@@ -13,21 +13,21 @@ I build secure, maintainable, and scalable backend systems with Java, Spring Boo
 
 # About Me
 
-* Software engineer focused on Java, Spring Boot, REST APIs, and secure backend development.
-* Passionate about software architecture, system design, backend engineering, and building production-quality applications.
-* Comfortable with Spring Security, JWT, OAuth2, Hibernate, JPA, Maven, Git, Docker, PostgreSQL, and MySQL.
-* Continuously improving my understanding of distributed systems, cloud-native development, scalable architectures, AI-powered software engineering, and modern backend technologies.
-* Actively building real-world projects while contributing to open source and continuously refining engineering best practices.
+* Software engineer focused on Java, Spring Boot, REST APIs, and secure backend engineering.
+* Passionate about software architecture, system design, backend development, and creating production-quality applications.
+* Comfortable working with Spring Security, JWT, OAuth2, Hibernate, JPA, Maven, Git, Docker, PostgreSQL, and MySQL.
+* Continuously expanding my knowledge of distributed systems, cloud-native development, scalable architectures, AI-powered software engineering, and modern backend technologies.
+* Actively developing real-world projects, contributing to open source, and refining software engineering best practices.
 
 ---
 
 # Current Focus
 
-* Building production-ready backend applications with Java and Spring Boot.
-* Learning software architecture, system design, and scalable backend engineering through real projects.
+* Developing production-ready backend applications with Java and Spring Boot.
+* Learning software architecture, system design, and scalable backend engineering through practical projects.
 * Exploring Spring AI and AI-assisted software engineering workflows.
-* Improving project quality through clean architecture, documentation, testing, and production-ready development practices.
-* Regularly contributing to personal projects, open source, and continuously expanding my engineering knowledge.
+* Enhancing project quality through clean architecture, documentation, testing, and production-focused development practices.
+* Regularly working on personal projects, contributing to open source, and expanding my engineering knowledge.
 
 ---
 
@@ -75,7 +75,7 @@ I build secure, maintainable, and scalable backend systems with Java, Spring Boo
 
 ## Carbon Contribution Tracking & Reward System (CCTRS)
 
-A full-stack platform for tracking eco-friendly activities, proof submissions, rewards, leaderboards, analytics, and community engagement.
+A full-stack platform designed for tracking eco-friendly activities, proof submissions, rewards, leaderboards, analytics, and community engagement.
 
 **Highlights**
 
@@ -97,7 +97,7 @@ Java • Spring Boot • Spring Security • JWT • OAuth2 • PostgreSQL • R
 
 ## MediConnect
 
-A production-oriented healthcare management platform being designed with a strong focus on clean architecture, modular backend development, secure authentication, scalable APIs, and enterprise software engineering practices.
+A production-oriented healthcare management platform designed with a strong emphasis on clean architecture, modular backend development, secure authentication, scalable APIs, and enterprise software engineering practices.
 
 **Current Focus**
 
@@ -114,7 +114,7 @@ A production-oriented healthcare management platform being designed with a stron
 
 ## FileMind
 
-An AI-powered desktop file search and knowledge management application focused on fast local search, intelligent indexing, document discovery, and developer productivity.
+An AI-powered desktop file search and knowledge management application focused on efficient local search, intelligent indexing, document discovery, and developer productivity.
 
 **Highlights**
 
@@ -129,7 +129,7 @@ An AI-powered desktop file search and knowledge management application focused o
 
 ## DevVoyage *(In Progress)*
 
-An AI-powered software engineering mentor that guides developers from idea to production by helping them plan, architect, prioritize, and build software projects using proven engineering practices.
+An AI-powered software engineering mentor that guides developers from idea to production by helping them plan, architect, prioritize, and develop software projects using proven engineering practices.
 
 **Planned Features**
 
@@ -147,13 +147,13 @@ An AI-powered software engineering mentor that guides developers from idea to pr
 
 ## ULSM Lab Barcode System
 
-Java-based barcode generation and decoding utility for laboratory sample management with validation, barcode encoding, and structured project architecture.
+A Java-based barcode generation and decoding utility for laboratory sample management, featuring validation, barcode encoding, and a structured project architecture.
 
 ---
 
 ## Personal Portfolio
 
-A modern portfolio showcasing my projects, technical skills, engineering journey, and backend development experience.
+A modern portfolio presenting my projects, technical skills, engineering journey, and backend development experience.
 
 Built with Astro, Tailwind CSS, and GitHub Pages.
 
@@ -161,7 +161,7 @@ Built with Astro, Tailwind CSS, and GitHub Pages.
 
 # Engineering Interests
 
-I enjoy working on projects involving:
+I enjoy building and exploring projects involving:
 
 * Backend Development
 * Software Architecture
@@ -180,7 +180,7 @@ I enjoy working on projects involving:
 
 # Open Source Journey
 
-I actively work on improving my repositories by adding:
+I actively improve my repositories by adding:
 
 * Professional documentation
 * Architecture diagrams
@@ -188,10 +188,10 @@ I actively work on improving my repositories by adding:
 * Contribution guides
 * Issue & PR templates
 * Project roadmaps
-* Better developer experience
+* Improved developer experience
 * Production-ready repository structure
 
-I also enjoy contributing to open-source projects and learning from experienced engineers while continuously improving my software engineering skills.
+I also enjoy contributing to open-source projects and learning from experienced engineers while continuously strengthening my software engineering skills.
 
 ---
 
