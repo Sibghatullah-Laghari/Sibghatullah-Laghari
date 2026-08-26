@@ -205,4 +205,4 @@ I also enjoy contributing to open-source projects and learning from experienced 
 
 ---
 
-> *"I believe great software isn't just written—it's thoughtfully designed, carefully engineered, and continuously improved."* 🚀
+> *"I believe great software isn't just written—it's thoughtfully designed, carefully engineered, and continuously improved.."* 🚀
